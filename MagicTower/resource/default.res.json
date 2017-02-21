@@ -1,0 +1,35 @@
+{
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "blocks_png,doors_png,roads_png,up_floor_png,walls_png"
+		}
+	],
+	"resources": [
+		{
+			"name": "blocks_png",
+			"type": "image",
+			"url": "assets/level0/blocks.png"
+		},
+		{
+			"name": "doors_png",
+			"type": "image",
+			"url": "assets/level0/doors.png"
+		},
+		{
+			"name": "roads_png",
+			"type": "image",
+			"url": "assets/level0/roads.png"
+		},
+		{
+			"name": "up_floor_png",
+			"type": "image",
+			"url": "assets/level0/up_floor.png"
+		},
+		{
+			"name": "walls_png",
+			"type": "image",
+			"url": "assets/level0/walls.png"
+		}
+	]
+}
